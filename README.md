@@ -4,3 +4,13 @@
 
 # how to install #
 
+clone the master branch into you files  
+>in the terminal type:
+>npm install
+## how to run  ##
+you can type(terminal):
+>node app 
+>then type localhost:3000    in the browser
+
+
+### THANK YOU ###
