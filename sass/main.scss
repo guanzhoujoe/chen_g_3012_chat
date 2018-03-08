@@ -3,7 +3,9 @@
 	margin: 0; padding: 0; box-sizing: border-box;
 }
 
-body { font: 13px Helvetica, Arial; }
+body { font: 13px Helvetica, Arial;
+	background: pink;
+}
 
 form {
 	background: #000;
@@ -30,4 +32,13 @@ form {
 .nickname
 {
 		font-size: 36px;  text-align: center;
+		width: 40%;
+		margin-left: 30%;
+		background: pink;
+		border-bottom: 1px black solid;
+		margin-bottom: 10px;
 }
+
+// #bcg {
+// 	width: 100%;
+// }
